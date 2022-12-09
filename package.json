@@ -1,6 +1,6 @@
 {
 	"name": "asynciterator.prototype",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "`AsyncIterator.prototype`, or a shared object to use.",
 	"main": "index.js",
 	"exports": {
